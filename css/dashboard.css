@@ -1,0 +1,27 @@
+.main-dashboard{
+    background-color: #ccc;
+}
+.nav-home a{
+    color: red;
+}
+.card{
+    background-color: #fff;
+    text-align:center ;
+}
+.col-board{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.div-footer{
+    background-color: red;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+
+}
+.food-text{
+    padding-bottom: 10px;
+    font-size: 15px;
+}
