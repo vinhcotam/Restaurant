@@ -15,7 +15,7 @@
 
 <body>
     <header>
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-md-8 ">
                     <ul class="nav justify-content-end nav-home">
@@ -46,7 +46,8 @@
         <div class="container-fluid main">
             <h1>Manager Order</h1>
             <div class="row">
-                <table class="table">
+                <div class="col-md-12">
+                <table class="table-fluid">
                     <thead>
                         <tr>
                             <th scope="col">S.N.</th>
@@ -108,6 +109,7 @@
                         </tr>
                     </tbody>
                 </table>
+                </div>
             </div>
         </div>
     </main>

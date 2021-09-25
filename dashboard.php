@@ -15,7 +15,7 @@
 
 <body>
     <header>
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-md-8 ">
                     <ul class="nav justify-content-end nav-home">
