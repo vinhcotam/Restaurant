@@ -47,7 +47,7 @@
             <h1>Manager Order</h1>
             <div class="row">
                 <div class="col-md-12">
-                <table class="table-fluid">
+                <table class="table">
                     <thead>
                         <tr>
                             <th scope="col">S.N.</th>

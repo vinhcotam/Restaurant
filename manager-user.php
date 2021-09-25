@@ -33,7 +33,7 @@
                             <th scope="row">1</th>
                             <td>Arsenio Leach</td>
                             <td>toduwaxobi</td>
-                            <td>
+                            <td>    
                                 <button class="change">Chang Password</button>
                                 <button class="update">Update Admin</button>
                                 <button class="delete">Delete Admin</button>

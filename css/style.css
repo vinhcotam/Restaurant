@@ -32,6 +32,7 @@
 .food-text{
     transform: translate(0,-100px);
     color: white;
+    font-size: 30px;
 }
 .food-menu{
     background-color: #ccc;

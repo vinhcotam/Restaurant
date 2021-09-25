@@ -94,7 +94,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <div class="card mb-3" style="max-width: 540px; border-radius:10px;">
+                        <div class="card mb-3" style=" border-radius:10px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
                                     <img src="img/menu-momo.jpg" class="img-fluid rounded-start" alt="..."
@@ -113,7 +113,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card mb-3" style="max-width: 540px; border-radius:10px;"
+                        <div class="card mb-3" style=" border-radius:10px;"
                             style="border-radius:10px ">
                             <div class="row g-0">
                                 <div class="col-md-4">
@@ -137,7 +137,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <div class="card mb-3" style="max-width: 540px; border-radius:10px;">
+                        <div class="card mb-3" style=" border-radius:10px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
                                     <img src="img/menu-momo.jpg" class="img-fluid rounded-start" alt="..."
@@ -156,7 +156,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="card mb-3" style="max-width: 540px; border-radius:10px;">
+                        <div class="card mb-3" style=" border-radius:10px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
                                     <img src="img/menu-burger.jpg" class="img-fluid rounded-start" alt="..."
