@@ -44,7 +44,7 @@
     </header>
     <main>
         <div class="container-fluid main-dashboard">
-            <div class="row">
+            <div class="row bg-light">
                 <h1>Dash board</h1>
                 <div class="col-md-3 col-board">
                     <div class="card-body card">
