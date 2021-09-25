@@ -1,8 +1,12 @@
 .main{
     background-color: #ccc;
 }
-.change{
-    background-color: blue;
+.nav-home{
+    text-align: center;
+}
+.nav-home a{
+    color: red;
+    
 }
 .delete{
     background-color: red;
@@ -16,4 +20,11 @@
 .footer-text{
     text-align: center;
     color: white;
+}
+.img-main{
+    width: 20%;
+    height: 20%;
+}
+.not-add{
+    color: red;
 }
