@@ -40,8 +40,8 @@
     padding-top: 20px;
 }
 .img-food{
-    width: 20%;
-    border-radius:10px ;
+    border-radius: 20%;
+    padding: 10%;
 }
 .see-food {
     text-align: center;

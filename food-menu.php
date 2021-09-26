@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <title>Vinhhh</title>
+    <title>Document</title>
 </head>
 
 <body>
@@ -67,7 +67,7 @@
                         <div class="card mb-3" style="max-width: 540px; border-radius:10px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src="img/menu-momo.jpg" class="img-fluid rounded-start" alt="..."
+                                    <img src="img/menu-momo.jpg" class="img-fluid" alt="..."
                                         style="border-radius:10px ">
                                 </div>
                                 <div class="col-md-8">
@@ -87,7 +87,7 @@
                             style="border-radius:10px ">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src="img/menu-burger.jpg" class="img-fluid rounded-start" alt="..."
+                                    <img src="img/menu-burger.jpg" class="img-fluid " alt="..."
                                         style="border-radius:10px ">
                                 </div>
                                 <div class="col-md-8">
@@ -110,7 +110,7 @@
                         <div class="card mb-3" style="max-width: 540px; border-radius:10px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src="img/menu-pizza.jpg" class="img-fluid rounded-start" alt="..."
+                                    <img src="img/menu-pizza.jpg" class="img-fluid " alt="..."
                                         style="border-radius:10px ">
                                 </div>
                                 <div class="col-md-8">
@@ -129,7 +129,7 @@
                         <div class="card mb-3" style="max-width: 540px; border-radius:10px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src="img/menu-momo.jpg" class="img-fluid rounded-start" alt="..."
+                                    <img src="img/menu-momo.jpg" class="img-fluid " alt="..."
                                         style="border-radius:10px ">
                                 </div>
                                 <div class="col-md-8">
@@ -152,7 +152,7 @@
                         <div class="card mb-3" style="max-width: 540px; border-radius:10px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src="img/menu-pizza.jpg" class="img-fluid rounded-start" alt="..."
+                                    <img src="img/menu-pizza.jpg" class="img-fluid " alt="..."
                                         style="border-radius:10px ">
                                 </div>
                                 <div class="col-md-8">
