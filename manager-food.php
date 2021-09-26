@@ -45,7 +45,7 @@
     <main>
         <div class="container-fluid main">
             <h1>Manage Food</h1>
-            <a class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Add Category</a>
+            <button type="button" class="btn btn-primary">Add Food</button>
             <div class="row">
                 <table class="table">
                     <thead>

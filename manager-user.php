@@ -17,7 +17,7 @@
     <main>
         <div class="container-fluid main">
             <h1>Manager Users</h1>
-            <a class="btn btn-primary btn-lg disabled" role="button" aria-disabled="true">Add New User</a>
+            <button type="button" class="btn btn-primary">Add New User</button>
             <div class="row">
                 <table class="table">
                     <thead>
