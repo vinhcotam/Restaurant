@@ -39,6 +39,10 @@
     width: 100%;
     padding-top: 20px;
 }
+.img-food{
+    width: 20%;
+    border-radius:10px ;
+}
 .see-food {
     text-align: center;
 }

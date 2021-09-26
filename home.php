@@ -97,7 +97,7 @@
                         <div class="card mb-3" style=" border-radius:10px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src="img/menu-momo.jpg" class="img-fluid rounded-start" alt="..."
+                                    <img src="img/menu-momo.jpg" class="img-fluid rounded-start img-food" alt="..."
                                         style="border-radius:10px ">
                                 </div>
                                 <div class="col-md-8">
@@ -117,7 +117,7 @@
                             style="border-radius:10px ">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src="img/menu-burger.jpg" class="img-fluid rounded-start" alt="..."
+                                    <img src="img/menu-burger.jpg" class="img-fluid rounded-start img-food" alt="..."
                                         style="border-radius:10px ">
                                 </div>
                                 <div class="col-md-8">
@@ -140,7 +140,7 @@
                         <div class="card mb-3" style=" border-radius:10px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src="img/menu-momo.jpg" class="img-fluid rounded-start" alt="..."
+                                    <img src="img/menu-momo.jpg" class="img-fluid rounded-start img-food" alt="..."
                                         style="border-radius:10px ">
                                 </div>
                                 <div class="col-md-8">
@@ -159,7 +159,7 @@
                         <div class="card mb-3" style=" border-radius:10px;">
                             <div class="row g-0">
                                 <div class="col-md-4">
-                                    <img src="img/menu-burger.jpg" class="img-fluid rounded-start" alt="..."
+                                    <img src="img/menu-burger.jpg" class="img-fluid rounded-start img-food" alt="..."
                                         style="border-radius:10px ">
                                 </div>
                                 <div class="col-md-8">
