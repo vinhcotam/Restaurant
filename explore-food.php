@@ -82,6 +82,12 @@
                         <p class="card-text food-text">Momo</p>
                     </div>
                 </div>
+                <div class="col-md-4 content-food">
+                    <img src="img/momo.jpg" class="img-fluid" alt="..." style="border-radius:10px ">
+                    <div class="card-body">
+                        <p class="card-text food-text">Momo</p>
+                    </div>
+                </div>
             </div>
         </div>
         </div>
